@@ -3,7 +3,7 @@ package virtualKey;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Lockers {
+public class Lockers_Runner {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
